@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/johannes/Hausaufgabe/Content/Logo_hit.wav</SourceFile>
+  <SourceTime>2024-10-20T12:25:54.415093+02:00</SourceTime>
+  <DestFile>/home/johannes/Hausaufgabe/Content/bin/DesktopGL/Content/Logo_hit.xnb</DestFile>
+  <DestTime>2024-10-20T13:40:59.52846+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

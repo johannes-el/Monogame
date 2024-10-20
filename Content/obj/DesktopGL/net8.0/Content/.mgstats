@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/johannes/Hausaufgabe/Content/Background.png","/home/johannes/Hausaufgabe/Content/bin/DesktopGL/Content/Background.xnb","TextureProcessor","Texture2DContent",772434,5242965,0.4468507
+"/home/johannes/Hausaufgabe/Content/Logo_hit.wav","/home/johannes/Hausaufgabe/Content/bin/DesktopGL/Content/Logo_hit.xnb","SoundEffectProcessor","SoundEffectContent",191788,191849,0.1474734
+"/home/johannes/Hausaufgabe/Content/Logo_miss.wav","/home/johannes/Hausaufgabe/Content/bin/DesktopGL/Content/Logo_miss.xnb","SoundEffectProcessor","SoundEffectContent",159276,159337,0.0242872
+"/home/johannes/Hausaufgabe/Content/Unilogo.png","/home/johannes/Hausaufgabe/Content/bin/DesktopGL/Content/Unilogo.xnb","TextureProcessor","Texture2DContent",182024,3186309,0.1472886
